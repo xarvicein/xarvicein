@@ -162,10 +162,6 @@ I'm **Abhishek Prakash**, a **Full Stack Developer (Team Lead)** with **5+ years
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=xarvicein&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xarvicein&layout=compact&theme=tokyonight&hide_border=true" width="34%"/>
-
 <img src="https://streak-stats.demolab.com/?user=xarvicein&theme=tokyonight&hide_border=true" width="65%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=xarvicein&theme=tokyo-night&hide_border=true" width="90%"/>
